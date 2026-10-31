@@ -1,0 +1,17 @@
+out/
+build/
+bin/
+lib/
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+vcpkg_installed/
+
+.vs/
+*.user
+*.suo
+
+*.txt
+!CMakeLists.txt
